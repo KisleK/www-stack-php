@@ -18,32 +18,32 @@
 </head>
 <body>
 <?php
-//    $i= 0;
-//
-//    while($i < 101)
-//    {
-//        echo($i);
-//        $i+= 10;
-//        echo("</br>");
-//    }
-//
-//    $airlines = array (
-//            "American",
-//            "Southwest",
-//            "Delta",
-//            "US Airlines",
-//            "United",
-//            "JetBlue",
-//            "Frontier"
-//    );
-//        $x = 0;
-//
-//        while($x < count($airlines))
-//        {
-//            echo ($airlines[$x]);
-//            echo("</br>");
-//            $x++;
-//        }
+    $i= 0;
+
+    while($i < 101)
+    {
+        echo($i);
+        $i+= 10;
+        echo("</br>");
+    }
+
+    $airlines = array (
+            "American",
+            "Southwest",
+            "Delta",
+            "US Airlines",
+            "United",
+            "JetBlue",
+            "Frontier"
+    );
+        $x = 0;
+
+        while($x < count($airlines))
+        {
+            echo ($airlines[$x]);
+            echo("</br>");
+            $x++;
+        }
 
         $y = 100;
 

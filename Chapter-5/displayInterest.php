@@ -10,6 +10,11 @@
 
 <?php
 
+$Principal = $_REQUEST['Principal'];
+$InterestRate = $_REQUEST['Interest Rate'];
+$Tax = $_REQUEST['Term'];
+
+
 ?>
 
 
