@@ -16,6 +16,13 @@
     <title>Lab 5</title>
 </head>
 <body>
+<table>
+    <tr>
+        <td>Month</td>
+        <td>Monthly Interest</td>
+        <td>Months Balance</td>
+    </tr>
+</table>
     <?php
             for($x=0; $x < 13; $x++){
                 for($i=0; $i<$x; $i++)
