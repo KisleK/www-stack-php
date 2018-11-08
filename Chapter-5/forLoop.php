@@ -22,13 +22,15 @@
         // Continuation Condition
         // Counter
 
+
+        // counting up
         for($i=0; $i < 100; $i++)    // for(initialization; Continuation Condition; Counter)
         for($i=0; $i < 200; $i+=5)
         {
             echo($i . "</br>");
         }
 
-
+        // counting down
         for($x=400; $x > -1; $x-= 21.67)
         {
             echo($x . "</br>");
