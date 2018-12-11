@@ -21,7 +21,7 @@
 
     for($i = 0; $i < count($name); $i ++)
     {
-        fwrite($fp, $name[$i] . "\n");
+        fwrite($fp, $name[$i] . "\r\n");
     }
 
 
